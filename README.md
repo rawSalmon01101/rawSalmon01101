@@ -5,6 +5,7 @@
 - 📫 How to reach me: you shouldn't.
 - 😄 Pronouns: he or him
 - ⚡ english or spanish
+- 💀 wenomechainsama tumajarbisaun wifenloof esteliftunbraun 
 
 <!---
 rawSalmon01101/rawSalmon01101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
