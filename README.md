@@ -6,7 +6,7 @@
 - 😄 Pronouns: he or him
 - ⚡ english or spanish
 - 💀 wenomechainsama tumajarbisaun wifenloof esteliftunbraun 
-##### fortinayti ila baba-baba-ji babji; babaji? ila ickus bockus Siris ickus, Siris ickus
+##### fortinayti ila baba-baba-ji babji; babaji-ji- ila ickus bockus Siris ickus, Siris ickus
 
 <!---
 rawSalmon01101/rawSalmon01101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
