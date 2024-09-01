@@ -12,3 +12,10 @@
 rawSalmon01101/rawSalmon01101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+wenomechainsama
+- 💞looking for big tidy got gf
+- shißeposting full time
+- copy pasting source code from GitHub machine
+[x] tick me
+- I code in ja🅱️🅱️a nyahhHHH~
