@@ -1,1 +1,1 @@
-Nothing to see here ;) cause it's for Minecraft
+JavaScript is definitely not my cup of tea
