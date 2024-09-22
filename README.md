@@ -1,1 +1,1 @@
-JavaScript is definitely not my cup of tea
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=DADADA&random=true&width=435&lines=Java+utilities;Figma+designer;Pure+CSS+frontend;sucks+at+maths" alt="Typing SVG" /></a>
