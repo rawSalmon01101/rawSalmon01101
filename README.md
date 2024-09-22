@@ -11,9 +11,8 @@ Languages I absolutely despise: JavaScript and JavaScript (because my decade old
 Feel free to explore my repositories— oh wait there's only one 🥴
 
 Alright, that's the end of it! Hope you find gold in my otherwise trash-ridden repos. Keep coding!
-
-
-
+<br>
+<br>
 <br>
 Languages / Tools:
 <br>
