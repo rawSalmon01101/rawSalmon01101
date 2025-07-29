@@ -1,16 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=DADADA&random=true&width=435&lines=Java+utilities;Figma+designer;Pure+CSS+frontend;sucks+at+maths" alt="Typing SVG" /></a>
 <br>
-👋 Hi there! I’m rawSalmon01101 (also going by the alias "Diarmait" sometimes, as in the profile), a passionate Java programmer based in India. My journey in the world of code began when I discovered the magic of HTML and CSS in seventh grade; weird, I know! Then came java in eighth grade. Since then, I’ve been on nothing short of a full blown quest for building programs to help others.
+Programmer / self-taught UX designer. My work primarily revolves around designing terminal apps and prototyping interfaces.
 
-🌟 Some things I love tinkering with:
+Despite the front-end description of my work, I have involvement in back-end to some extent as well, focusing mainly on designing driving logic and optimization of such.
 
-Languages I absolutely despise: JavaScript and JavaScript (because my decade old Samsung needs to run it as well!)
-
-⌨️ When I’m not typing away, you’ll find me sipping coffee, exploring open-source projects, or contemplating the mysteries of asynchronous programming. Oh, and I’m always up for a good tech chat— hit me up if you want to discuss the latest trends or debate Web apps or native apps!
-
-Feel free to explore my repositories— oh wait there's only one 🥴
-
-Alright, that's the end of it! Hope you find gold in my early stage repos. Keep coding!
+My web principles are to use as little JavaScript, or even none whenever possible, though Web is not my primary concern to deal with.
 <br>
 <br>
 <br>
