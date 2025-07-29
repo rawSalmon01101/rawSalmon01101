@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=DADADA&random=true&width=435&lines=Java+utilities;Figma+designer;Pure+CSS+front-end" alt="Typing SVG" /></a>
+<h3>What if form not only had function, but also feelings?</h3>
 <br>
 Programmer / self-taught UX designer. My work primarily revolves around designing terminal apps and prototyping interfaces.
 
